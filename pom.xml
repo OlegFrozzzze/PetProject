@@ -6,6 +6,7 @@
 
     <groupId>PetProject</groupId>
     <artifactId>PetProject</artifactId>
+    <packaging>jar</packaging>
     <version>1.0</version>
 
     <parent>
